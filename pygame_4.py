@@ -1,7 +1,7 @@
 
-# coding: utf-8
 
-# In[45]:
+
+
 
 import pygame
 import sys
@@ -64,17 +64,7 @@ while True :
 
 
 
-# In[ ]:
 
-
-
-
-# In[ ]:
-
-
-
-
-# In[ ]:
 
 
 
