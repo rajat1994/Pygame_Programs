@@ -22,8 +22,8 @@ setDisplay = pygame.display.set_mode((400,300))
 pygame.display.set_caption('epic game')
 
 img = pygame.image.load('sample-tileset.png')
-img_x=50
-img_y=50
+img_x=10
+img_y=10
 
 while True :
    setDisplay.blit(img,(img_x,img_y))
